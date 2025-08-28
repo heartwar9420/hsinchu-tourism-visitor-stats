@@ -33,7 +33,7 @@
 
 ## 範例圖表
 
-![範例](assets/pandas 資料清洗、轉換成圖表.jpg)
+![範例](assets/hsinchu-tourism-visitor-stats.jpg)
 
 ---
 
